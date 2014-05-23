@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var repl = require("repl");
-var mockServer = require('./lib/mockServer.js')
+var mockServer = require('../lib/mockServer.js')
 
 function eval(cmd, context, filename, callback) {
 	cmd = cmd.replace(/\r?\n|\r/g,"");
