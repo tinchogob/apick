@@ -1,0 +1,25 @@
+{
+  "name": "apick",
+  "description": "Simple CLI api library based in express",
+  "version": "0.1.0",
+  "author": "Martin Gonzalez",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinchogob/apick"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "file",
+    "cli"
+  ],
+  "dependencies": {
+    "express": "~3.5.1",
+    "minimist": "0.1.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}

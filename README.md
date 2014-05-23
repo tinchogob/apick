@@ -1,4 +1,4 @@
 apick
 =====
 
-Simple file based mocking cli based in node and express
+Simple CLI api library based in express
